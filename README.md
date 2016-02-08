@@ -1,4 +1,4 @@
-Table + AngularJS - Compile11
+Table + AngularJS - Compile2
 =================
 [![Build Status](https://travis-ci.org/esvit/ng-table.png)](https://travis-ci.org/esvit/ng-table) [![Coverage Status](https://coveralls.io/repos/esvit/ng-table/badge.png)](https://coveralls.io/r/esvit/ng-table)
 
